@@ -4,7 +4,7 @@
     text-transform: uppercase;
     flex-wrap: wrap;
     width:70%;
-    margin:20% auto;
+    margin:10% auto;
     background-color: rgba(255,255,255,0.8);
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
@@ -45,4 +45,18 @@
     border: none;
     cursor: pointer;
     width: 100%;
+}
+
+@media (min-width: 600px) {
+    
+
+    .card{
+        width: 50%;
+        border-radius: 30px;
+    }
+
+    .button{
+        width: 40%;
+        margin: 5%;
+    }
 }

@@ -9,7 +9,7 @@ function App() {
 
   const [isOpen,setIsOpen] = useState(false);
 
-  const [animationFinished, setAnimationFinished] = useState(false);
+  const [animationFinished, setAnimationFinished] = useState(true);
 
   const handleAnimationEnd = () => {
     setAnimationFinished(true);
