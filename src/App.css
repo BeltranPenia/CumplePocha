@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Magnificent';
+  src: url('./assets/font/Magnificent Serif.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.app {
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  background: url('./assets/boo.jpg') no-repeat center center;
+  background-size: cover;
+  font-family: 'Magnificent', serif;
+}
+
+.app.switch{
+  height: auto;
+}

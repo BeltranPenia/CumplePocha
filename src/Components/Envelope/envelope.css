@@ -1,0 +1,41 @@
+.envelope{
+    position: relative;
+    width: 280px;
+    height:180px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    margin: calc(50vh - 98px) auto 0 auto;
+    background-color: rgb(95, 6, 95);
+    box-shadow: 0 4px 15px 20px rgba(0, 0, 0, 0.2);
+}
+
+.front{
+    position: absolute;
+    width:0;
+    height: 0;
+    z-index: 3;
+}
+
+.flap{
+    z-index: 4;
+    border-left: 140px solid transparent;
+    border-right: 140px solid transparent;
+    border-bottom: 82px solid transparent;
+    border-top: 98px solid rgb(95, 6, 95);
+    transform-origin: top;
+    pointer-events: none;
+}
+
+.pocket{
+    border-left: 140px solid rgb(212, 174, 155);
+    border-right: 140px solid rgb(212, 174, 155);
+    border-bottom: 90px solid rgb(255, 60, 0); 
+    border-top: 90px solid transparent;
+    
+}
+
+.open.flap{
+    transform: rotateX(180deg);
+    transition: transform .4s ease, z-index .6s;
+    z-index: 1;
+}
