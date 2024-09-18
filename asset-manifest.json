@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CumplePocha/static/css/main.be7761f3.css",
+    "main.js": "/CumplePocha/static/js/main.98b898a0.js",
+    "static/js/453.66eed980.chunk.js": "/CumplePocha/static/js/453.66eed980.chunk.js",
+    "static/media/background.mp4": "/CumplePocha/static/media/background.09cb49f40ae6f1490119.mp4",
+    "static/media/boo.jpg": "/CumplePocha/static/media/boo.2bdc24b3b9d3a33faa21.jpg",
+    "static/media/cauldron.png": "/CumplePocha/static/media/cauldron.506728c53621846769c2.png",
+    "static/media/pumpkin.png": "/CumplePocha/static/media/pumpkin.f508b19dbb856dc221a7.png",
+    "static/media/skull.png": "/CumplePocha/static/media/skull.88931a620a453e41cafe.png",
+    "static/media/candy.png": "/CumplePocha/static/media/candy.d6542d0285d3f096c25f.png",
+    "static/media/Magnificent Serif.ttf": "/CumplePocha/static/media/Magnificent Serif.7c635e522720c069cd16.ttf",
+    "index.html": "/CumplePocha/index.html",
+    "main.be7761f3.css.map": "/CumplePocha/static/css/main.be7761f3.css.map",
+    "main.98b898a0.js.map": "/CumplePocha/static/js/main.98b898a0.js.map",
+    "453.66eed980.chunk.js.map": "/CumplePocha/static/js/453.66eed980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be7761f3.css",
+    "static/js/main.98b898a0.js"
+  ]
+}
