@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CumplePocha/build/static/css/main.50fdf9ca.css",
-    "main.js": "/CumplePocha/build/static/js/main.a2c5d9fb.js",
+    "main.js": "/CumplePocha/build/static/js/main.350cdb75.js",
     "static/js/453.66eed980.chunk.js": "/CumplePocha/build/static/js/453.66eed980.chunk.js",
     "static/media/background.mp4": "/CumplePocha/build/static/media/background.09cb49f40ae6f1490119.mp4",
     "static/media/boo.jpg": "/CumplePocha/build/static/media/boo.2bdc24b3b9d3a33faa21.jpg",
@@ -12,11 +12,11 @@
     "static/media/Magnificent Serif.ttf": "/CumplePocha/build/static/media/Magnificent Serif.7c635e522720c069cd16.ttf",
     "index.html": "/CumplePocha/build/index.html",
     "main.50fdf9ca.css.map": "/CumplePocha/build/static/css/main.50fdf9ca.css.map",
-    "main.a2c5d9fb.js.map": "/CumplePocha/build/static/js/main.a2c5d9fb.js.map",
+    "main.350cdb75.js.map": "/CumplePocha/build/static/js/main.350cdb75.js.map",
     "453.66eed980.chunk.js.map": "/CumplePocha/build/static/js/453.66eed980.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50fdf9ca.css",
-    "static/js/main.a2c5d9fb.js"
+    "static/js/main.350cdb75.js"
   ]
 }
